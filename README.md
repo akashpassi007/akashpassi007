@@ -12,6 +12,8 @@ My skill set includes deploying and maintaining AWS resources, configuring infra
 
 I am committed to contributing to dynamic teams, continuously enhancing my expertise in DevOps practices, and driving innovation in infrastructure automation.
 
+&nbsp;&nbsp;
+
 ##### 🧾 Certifications I have Accomplished
 
 - 🎖 Certified Docker Course - [KodeKloud](https://www.linkedin.com/in/akash-passi/details/certifications/)
@@ -22,7 +24,8 @@ I am committed to contributing to dynamic teams, continuously enhancing my exper
 
 - 🎖🎖🎖 Complete list of my certifications [here](https://www.linkedin.com/in/akash-passi/details/certifications/)
 
-
+ &nbsp;&nbsp;
+ 
 I mostly work with Python, MVC Frameworks, and Cloud-based technologies. 🚀
 
 <p float="left">
