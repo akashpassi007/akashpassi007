@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yatharth Sharma 🌀 from India 🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Akash Passi 🌀 from India 🇮🇳</h1>
 
 <p align="center">
 <a href="https://linkedin.com/in/akash-passi" target="blank">
