@@ -10,9 +10,7 @@ As a dedicated and detail-oriented DevOps Engineer, I specialize in automating A
 
 My skill set includes deploying and maintaining AWS resources, configuring infrastructure with Ansible, and leveraging Docker and Kubernetes for efficient containerization.
 
-I am committed to contributing to dynamic teams, continuously enhancing my expertise in DevOps practices, and driving innovation in infrastructure automation.<!--
-**akashpassi007/akashpassi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am committed to contributing to dynamic teams, continuously enhancing my expertise in DevOps practices, and driving innovation in infrastructure automation. <!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
