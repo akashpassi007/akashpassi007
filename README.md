@@ -6,7 +6,11 @@
 </a>
   &nbsp;&nbsp;
 
-<!--
+As a dedicated and detail-oriented DevOps Engineer, I specialize in automating AWS infrastructure, including EC2, S3, VPC, and IAM, utilizing tools such as Terraform, Ansible, and Jenkins. I possess strong proficiency in managing version control with Git and developing robust CI/CD pipelines with Jenkins.
+
+My skill set includes deploying and maintaining AWS resources, configuring infrastructure with Ansible, and leveraging Docker and Kubernetes for efficient containerization.
+
+I am committed to contributing to dynamic teams, continuously enhancing my expertise in DevOps practices, and driving innovation in infrastructure automation.<!--
 **akashpassi007/akashpassi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
