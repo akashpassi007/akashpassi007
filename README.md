@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yatharth Sharma 🌀 from India 🇮🇳</h1>
+
+<p align="center">
+<a href="https://linkedin.com/in/akash-passi" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
+</a>
+  &nbsp;&nbsp;
 
 <!--
 **akashpassi007/akashpassi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
